@@ -5,4 +5,4 @@
 :HL["/assets/everyday-life-headroom-960.webp","image",{"imageSrcSet":"/assets/everyday-life-headroom-480.webp 480w, /assets/everyday-life-headroom-960.webp 960w","imageSizes":"(min-width:1168px) 440px, (min-width:768px) 42vw, (min-width:560px) 512px, (max-width:420px) calc(100vw - 40px), calc(100vw - 48px)","fetchPriority":"high"}]
 :HL["/brand/primary-flower.svg","image"]
 :HL["/brand/micro-terracotta.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"fCLfPlD1DauIbIOwqU65U"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"SnVwkHFzI8Xde2Xirgxuc"}
