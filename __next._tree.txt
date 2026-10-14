@@ -1,8 +1,5 @@
 :HL["/_next/static/media/46e953bf376513ef-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/bec556ac705f50d4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/ed35b0eeba809dcc-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/90824e89f3451867.css","style"]
 :HL["/assets/everyday-life-headroom-960.7e004dce0493.webp","image",{"imageSrcSet":"/assets/everyday-life-headroom-300.d54b69e28a63.webp 300w, /assets/everyday-life-headroom-480.7f100e5709b7.webp 480w, /assets/everyday-life-headroom-640.4bb8dc7732e8.webp 640w, /assets/everyday-life-headroom-720.50f6d433f06f.webp 720w, /assets/everyday-life-headroom-960.7e004dce0493.webp 960w","imageSizes":"(min-width:1168px) 440px, (min-width:768px) 42vw, (min-width:560px) 512px, (max-width:420px) calc(100vw - 40px), calc(100vw - 48px)","fetchPriority":"high"}]
 :HL["/brand/primary-flower.a9ac9da030bf.svg","image"]
-:HL["/brand/micro-terracotta.2ae8da64a5f9.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"h7VKrIz4vLJj46cc9bR-H"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"MS229bI4D1IQKDTM69g71"}
