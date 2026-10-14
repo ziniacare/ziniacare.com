@@ -1,0 +1,58 @@
+/* ZiniaCare proposed design system, 9 September 2026.
+   Oat is experimental; forestDeep is a proposed interface state, not the logo colour.
+   Logo observations and decision status are recorded in tokens.json. */
+:root {
+  --ziniacare-paper: #FAFBF9;
+  --ziniacare-forest: #2A5744;
+  --ziniacare-forestDeep: #21503D;
+  --ziniacare-terracotta: #C86F51;
+  --ziniacare-peach: #F4D9CB;
+  --ziniacare-petal: #F4D9CB;
+  --ziniacare-oat: #E9DCC5;
+  --ziniacare-white: #FFFFFF;
+  --ziniacare-sage: #E8EFE9;
+  --ziniacare-ink: #172019;
+  --ziniacare-secondary: #39423B;
+  --ziniacare-border: #D4DDD5;
+  --ziniacare-error: #8D332A;
+  --ziniacare-warning: #795600;
+  --ziniacare-info: #245B83;
+  --ziniacare-font: Inter, Arial, sans-serif;
+  --ziniacare-type-display: 48px;
+  --ziniacare-leading-display: 56px;
+  --ziniacare-weight-display: 500;
+  --ziniacare-type-heading: 32px;
+  --ziniacare-leading-heading: 40px;
+  --ziniacare-weight-heading: 500;
+  --ziniacare-type-subheading: 24px;
+  --ziniacare-leading-subheading: 32px;
+  --ziniacare-weight-subheading: 600;
+  --ziniacare-type-body: 18px;
+  --ziniacare-leading-body: 28px;
+  --ziniacare-weight-body: 400;
+  --ziniacare-type-support: 16px;
+  --ziniacare-leading-support: 24px;
+  --ziniacare-weight-support: 400;
+  --ziniacare-space-4: 4px;
+  --ziniacare-space-8: 8px;
+  --ziniacare-space-16: 16px;
+  --ziniacare-space-24: 24px;
+  --ziniacare-space-32: 32px;
+  --ziniacare-space-48: 48px;
+  --ziniacare-space-64: 64px;
+  --ziniacare-space-96: 96px;
+  --ziniacare-grid-desktop-columns: 12;
+  --ziniacare-grid-mobile-columns: 4;
+  --ziniacare-grid-gutter: 24px;
+  --ziniacare-content-max: 1120px;
+  --ziniacare-mobile-padding: 24px;
+  --ziniacare-control-min-height: 48px;
+  --ziniacare-control-min-width: 48px;
+  --ziniacare-control-gap: 16px;
+  --ziniacare-radius-control: 8px;
+  --ziniacare-radius-card: 12px;
+  --ziniacare-focus-width: 3px;
+  --ziniacare-focus-offset: 3px;
+  --ziniacare-feedback-duration: 160ms;
+  --ziniacare-reduced-motion-duration: 0ms;
+}

@@ -1,0 +1,112 @@
+{
+  "edition": "2026-09-09-board-review",
+  "status": "Proposed brand system; v9 eight-petal peach is the accepted working direction",
+  "colour": {
+    "paper": "#FAFBF9",
+    "forest": "#2A5744",
+    "forestDeep": "#21503D",
+    "terracotta": "#C86F51",
+    "peach": "#F4D9CB",
+    "petal": "#F4D9CB",
+    "oat": "#E9DCC5",
+    "white": "#FFFFFF",
+    "sage": "#E8EFE9",
+    "ink": "#172019",
+    "secondary": "#39423B",
+    "border": "#D4DDD5",
+    "error": "#8D332A",
+    "warning": "#795600",
+    "info": "#245B83"
+  },
+  "colourStatus": {
+    "petal": "Alias of peach",
+    "oat": "Experimental inner-petal colour",
+    "forestDeep": "Supporting proposed interface state; not logo colour",
+    "border": "Decorative border; not a sufficient standalone control boundary on paper"
+  },
+  "font": {
+    "family": "Inter",
+    "fallback": "Arial, sans-serif",
+    "bodyWeight": 400,
+    "headingWeight": 500,
+    "emphasisWeight": 600
+  },
+  "typePx": {
+    "display": [
+      48,
+      56
+    ],
+    "heading": [
+      32,
+      40
+    ],
+    "subheading": [
+      24,
+      32
+    ],
+    "body": [
+      18,
+      28
+    ],
+    "support": [
+      16,
+      24
+    ]
+  },
+  "typeWeight": {
+    "display": 500,
+    "heading": 500,
+    "subheading": 600,
+    "body": 400,
+    "support": 400
+  },
+  "spacingPx": [
+    4,
+    8,
+    16,
+    24,
+    32,
+    48,
+    64,
+    96
+  ],
+  "grid": {
+    "desktopColumns": 12,
+    "mobileColumns": 4,
+    "gutterPx": 24,
+    "mobileOuterPaddingPx": 24,
+    "maxContentPx": 1120
+  },
+  "radiusPx": {
+    "control": 8,
+    "card": 12
+  },
+  "control": {
+    "minHeightPx": 48,
+    "minTouchWidthPx": 48,
+    "gapPx": 16,
+    "focusWidthPx": 3,
+    "focusOffsetPx": 3
+  },
+  "motion": {
+    "feedbackMs": 160,
+    "reducedMotionMs": 0
+  },
+  "logo": {
+    "sourceVersion": "v9",
+    "primaryPetalCount": 8,
+    "primaryInnerColour": "peach",
+    "clearSpaceFractionOfFlowerDiameter": 0.25,
+    "digitalObservation": {
+      "fullFlowerCompactCanvasPx": 32,
+      "fullFlowerClearDetailCanvasPx": 48,
+      "proposedMicroCanvasPxRange": [
+        16,
+        24
+      ],
+      "status": "Observed render guidance; verify intended application, not a universal minimum"
+    },
+    "wordmarkStatus": "Original raster reference; production vector wordmark pending",
+    "microStatus": "Proposed, not approved"
+  }
+}
